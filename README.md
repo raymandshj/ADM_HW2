@@ -1,6 +1,6 @@
-# ADM_HW2
 
-# Analysis of an Instagram dataset: Instagram Profiles & Posts
+
+# "InstaInsights: Instagram Data Analysis and Trends
 
 ## Get data to analyze, the data in usage are available on Kaggle at https://www.kaggle.com/datasets/shmalex/instagram-dataset?select=instagram_profiles.csv
 
