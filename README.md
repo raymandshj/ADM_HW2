@@ -20,10 +20,10 @@
    This is a file that whitin has a link to the repository that has the questions and datasets.
 ## Authors
 
+- Raymand Shojaie Aghabalaghe
 - Nicola Grieco
 - Antonio Rocca
-- Raymand Shojaie Aghabalaghe
-    
+      
 ## This is the link of the notebook on github:
 
 https://nbviewer.org/github/anntonio99/ADM_HW2/blob/main/main.ipynb
